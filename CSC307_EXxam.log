@@ -1,0 +1,5 @@
+﻿  CSC307_EXxam.cpp
+E:\HOMEWORK\CSC307_EXxam\CSC307_EXxam\Messenger.h(51,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CSC307_EXxam.cpp')
+  
+  CSC307_EXxam.vcxproj -> E:\HOMEWORK\CSC307_EXxam\x64\Debug\CSC307_EXxam.exe
